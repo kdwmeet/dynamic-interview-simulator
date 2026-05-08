@@ -42,3 +42,5 @@ uv pip install -r requirements.txt
 uv run streamlit run main.py
 
 ## 6. 실행 화면
+
+<img width="1521" height="1076" alt="스크린샷 2026-05-08 120727" src="https://github.com/user-attachments/assets/3948a72f-19c6-4341-9dbc-e0f3e9393d8a" />
